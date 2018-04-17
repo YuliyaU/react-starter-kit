@@ -8,6 +8,6 @@ fs.writeFile('./src/api/db.json', json, function(err) {
     if (err) {
         return console.log(err);
     } else {
-        console.log('Mock data generated!')
+        console.log('Mock data generated!');
     }
 });
