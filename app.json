@@ -1,0 +1,6 @@
+{
+    "name": "React Starter Kit",
+    "description": "My custom react starter kit",
+    "repository": "https://github.com/YuliyaU/react-starter-kit",
+    "keywords": ["react", "node", "express"]
+}
