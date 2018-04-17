@@ -6,5 +6,5 @@ window.React = React;
 
 ReactDOM.render(
     <App />, 
-    document.getElementById('root')
+    document.getElementsByTagName('body')[0]
 );
