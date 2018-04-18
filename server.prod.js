@@ -15,7 +15,7 @@ app.listen(app.get('port'), function(err) {
     if(err) {
         console.log(err);
     } else {
-        console.log('We are on port ' + port + '!');
+        console.log('We are on port ' + app.get('port') + '!');
     } 
 });
 
